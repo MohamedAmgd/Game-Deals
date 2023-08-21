@@ -26,7 +26,7 @@
   </a>
   
   <img alt="GitHub" src="https://img.shields.io/github/license/MohamedAmgd/Game-Deals">
-  <img alt="Downloads" src="https://img.shields.io/github/downloads/MohamedAmgd/Game-Deals/total">
+  <img alt="Downloads" src="https://img.shields.io/github/downloads/MohamedAmgd/Game-Deals/total?cacheSeconds=0">
 </p>
 
 <p align="center">
