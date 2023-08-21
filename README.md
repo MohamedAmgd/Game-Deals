@@ -73,7 +73,7 @@ Technologies that I used to develop this mobile client
 - [Accompanist](https://github.com/google/accompanist)
 - [Shimmer loading](https://github.com/valentinilk/compose-shimmer)
 - [Coil](https://coil-kt.github.io/coil/)
-- [Retrofit](https://github.com/square/retrofit)
+- [Retrofit](https://square.github.io/retrofit/)
 - [Room](https://developer.android.com/jetpack/androidx/releases/room)
 
 ## 💻 Getting started
