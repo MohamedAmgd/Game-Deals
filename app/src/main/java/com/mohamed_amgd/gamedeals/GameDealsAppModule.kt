@@ -18,7 +18,7 @@ import javax.inject.Singleton
 @Module
 @InstallIn(SingletonComponent::class)
 internal object GameDealsAppModule {
-    private const val dealsApiUrl = "https://game-deals.azurewebsites.net/"
+    private const val DEALS_API_URL = "https://game-deals.azurewebsites.net/"
 
     @Provides
     @Singleton
@@ -34,7 +34,7 @@ internal object GameDealsAppModule {
     fun provideGameDealsApi(): GameDealsApi {
         return Retrofit
             .Builder()
-            .baseUrl(dealsApiUrl)
+            .baseUrl(DEALS_API_URL)
             .addConverterFactory(GsonConverterFactory.create())
             .build()
             .create(GameDealsApi::class.java)
