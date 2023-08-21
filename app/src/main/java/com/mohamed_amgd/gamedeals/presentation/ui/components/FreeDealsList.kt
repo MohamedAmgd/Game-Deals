@@ -125,7 +125,7 @@ private fun ListItem(
             modifier = Modifier
                 .align(Alignment.BottomCenter)
                 .padding(all = 12.dp),
-            text = deal.name,
+            text = deal.name.trim(),
             style = MaterialTheme.typography.h3,
             maxLines = 4,
             overflow = TextOverflow.Ellipsis

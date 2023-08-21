@@ -237,7 +237,7 @@ private fun ListItem(
             ) {
                 var textSize: TextUnit by remember { mutableStateOf(18.sp) }
                 Text(
-                    text = deal.name,
+                    text = deal.name.trim(),
                     textAlign = TextAlign.Center,
                     style = MaterialTheme.typography.h2,
                     fontSize = textSize,
