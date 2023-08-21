@@ -68,7 +68,7 @@ dependencies {
     // Shared preferences
     implementation 'androidx.preference:preference-ktx:1.2.0'
 
-    // Work manger
+    // Work manager
     implementation 'androidx.work:work-runtime-ktx:2.8.1'
 
     // Accompanist
