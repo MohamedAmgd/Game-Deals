@@ -17,7 +17,7 @@
   
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/MohamedAmgd/Game-Deals">
   
-  <a href="https://github.com/MohamedAmgd/Game-Deals/commits/main">
+  <a href="https://github.com/MohamedAmgd/Game-Deals/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/MohamedAmgd/Game-Deals">
   </a>
   
@@ -26,6 +26,7 @@
   </a>
   
   <img alt="GitHub" src="https://img.shields.io/github/license/MohamedAmgd/Game-Deals">
+  <img alt="Downloads" src="https://img.shields.io/github/downloads/MohamedAmgd/Game-Deals/total">
 </p>
 
 <p align="center">
